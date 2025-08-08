@@ -59,7 +59,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankit577singh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit577singh&layout=compact&langs_count=8&theme=radical"/>
 </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit577singh&theme=dark&hide_border=false&layout=compact)
+
 
 
 
@@ -82,6 +82,7 @@
 <!-- Quote Section -->
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
