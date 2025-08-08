@@ -59,6 +59,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankit577singh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit577singh&layout=compact&langs_count=8&theme=radical"/>
 </div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit577singh&theme=dark&hide_border=false&layout=compact)
 
 
 
@@ -71,7 +72,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankit577singh&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Snake Animation -->
-## 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -84,11 +85,6 @@
 
 
 
-<!-- Footer -->
-<h3 align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Ankit577singh/count.svg" />
-</h3>
 
-</div>
+
 
