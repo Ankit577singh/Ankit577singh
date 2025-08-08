@@ -60,9 +60,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit577singh&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankit577singh&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</div>
+
 
 <!-- Trophy Section -->
 ## 🏆 GitHub Trophies
@@ -74,15 +72,17 @@
 
 <!-- Snake Animation -->
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/Ankit577singh/Ankit577singh/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <!-- Quote Section -->
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Spotify Playing (optional) -->
-## 🎧 Currently Listening
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
 
 <!-- Footer -->
 <h3 align="center"> 
@@ -91,3 +91,4 @@
 </h3>
 
 </div>
+
