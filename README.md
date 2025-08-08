@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me
 Hey there! 👋  
 I'm **Ankit Singh**, a passionate **Full-Stack Developer** and AI enthusiast 🚀  
@@ -79,7 +81,4 @@ Always curious, always learning! ✨
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
----
-
-💡 *“Code is like humor. When you have to explain it, it’s bad.”* 😄
-
+</div>
